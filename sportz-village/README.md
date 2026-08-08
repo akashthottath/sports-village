@@ -2,7 +2,7 @@ project:
 Sports Village Foundation (given)
 
 How To Run :-
-git clone<>
+git clone<repo>
 npm install
 npm run dev
 
